@@ -1,0 +1,13 @@
+import recfun.Main._
+import recfun.Main
+compile
+import recfun.Main._
+import recfun.Main
+run
+import Main
+pascal(2, 2)
+Main.pascal(2, 2)
+console
+run
+test
+submit ovidiu.fritsch@gmail.com gjZUpgtH0QhEnlg8

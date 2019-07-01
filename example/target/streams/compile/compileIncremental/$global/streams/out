@@ -1,0 +1,48 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main$.class, /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Lists.class, /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package$.class, /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class, /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main.class, /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package.class, /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Lists$.class, /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main$delayedInit$body.class)[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala, /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 5 sources: invalidated sources (5) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 5 Scala sources to /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.18:component from component compiler for Scala 2.11.12[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 460d9ff0, interfacing (CompilerInterface) with Scala compiler version 2.11.12[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes:/Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar:/Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar:/Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar:/Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalatest/scalatest_2.11/2.2.4/scalatest_2.11-2.2.4.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.747561789 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, <, unary_-, synchronized, $isInstanceOf, numer, notifyAll, -, isInstanceOf, <init>, max, ==, clone, toString, denom, +, !=, getClass, Rational, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, head, asInstanceOf, synchronized, $isInstanceOf, tail, Cons, notifyAll, isInstanceOf, <init>, ==, clone, toString, !=, getClass, List, isEmpty, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m

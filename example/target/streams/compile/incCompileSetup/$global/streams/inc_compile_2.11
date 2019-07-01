@@ -1,0 +1,278 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package$.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Lists$.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Lists.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main$.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main$delayedInit$body.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week3/Rational$$anonfun$1.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week3/Rational.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week4/week3/rationals/Cons.class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week4/week3/rationals/List.class
+binary dependencies:
+5 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> /Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> /Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> /Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> /Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> /Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> /Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> common.package
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> common.package$
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> example.Lists
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> example.Lists$
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> example.Main
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> example.Main$
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> example.Main$delayedInit$body
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> week3.Rational
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> week3.Rational$$anonfun$1
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> week4.week3.rationals.Cons
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> week4.week3.rationals.List
+used names:
+144 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> ::
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> <init>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> <repeated>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> ?0
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> A
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Any
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> AnyRef
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> B
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Boolean
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Class
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> File
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> FileInputStream
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Function2
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> InputStream
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> List
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> None
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Nothing
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Object
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Option
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Predef
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> Some
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> String
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> URI
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> URL
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> _root_
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> child
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> children
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> classesDir
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> common
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> exists
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> file
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> foldLeft
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> getClass
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> getParentFile
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> getResource
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> io
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> java
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> package
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> projectDir
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> resourceFile
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> resourcePath
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> scala
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> subFile
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> toURI
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> !=
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> &&
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> +
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> <init>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> <repeated>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> ==
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> >
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> A
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> Any
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> AnyRef
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> Boolean
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> Int
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> List
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> Lists
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> NoSuchElementException
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> Nothing
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> Object
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> Some
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> String
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> apply
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> example
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> get
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> head
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> i
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> immutable
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> ints
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> isEmpty
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> lengthCompare
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> max_
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> package
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> scala
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> sum
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> tail
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> unapplySeq
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> unary_!
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> xs
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> <init>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> <repeated>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> A
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Any
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> App
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Int
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> List
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Lists
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Main
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Nothing
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Object
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Predef
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> Unit
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> apply
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> example
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> immutable
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> max
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> package
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> println
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> scala
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> !=
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> %
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> *
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> +
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> /
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> <
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> <byname>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> <init>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> ==
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> Any
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> AnyRef
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> Boolean
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> Int
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> Object
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> Predef
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> Rational
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> String
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> Unit
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> a
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> b
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> denom
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> g
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> gcd
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> numer
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> require
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> scala
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> that
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> unary_-
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> week3
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> x
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> y
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> <init>
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> AnyRef
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> Boolean
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> Cons
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> List
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> Object
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> T
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> head
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> rationals
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> scala
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> tail
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> week3
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> week4
+product stamps:
+12 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package$.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/common/package.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Lists$.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Lists.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main$.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main$delayedInit$body.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/example/Main.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week3/Rational$$anonfun$1.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week3/Rational.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week4/week3/rationals/Cons.class -> lastModified(1561071093000)
+/Users/ovidiufritsch/code/Scala_Coursera/example/target/scala-2.11/classes/week4/week3/rationals/List.class -> lastModified(1561071093000)
+source stamps:
+5 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> hash(ccd46e331fb16c3be85ff8e71414a76e67f0974f)
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> hash(faffe6a5187996ecd62f2dc48a320b501ecaefbb)
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> hash(6c35886c8855f8c881896b6e6ed21f7cb3b10e33)
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> hash(c5e8c39608c67e3e3ed58636895933e8382294e0)
+binary stamps:
+1 items
+/Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+class names:
+1 items
+/Users/ovidiufritsch/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.Boolean
+internal apis:
+5 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNR5ezQABc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwxBALLnQABm5vdGlmeXNxAH4ADLd7app0AAdwYWNrYWdlc3EAfgAMJhK6tnQABHdhaXRzcQB+AAzx5+qMdAANJGFzSW5zdGFuY2VPZnNxAH4ADM2K/A90AAZlcXVhbHNzcQB+AAzxbFRpdAAMYXNJbnN0YW5jZU9mc3EAfgAMzsiFSnQADHN5bmNocm9uaXplZHNxAH4ADFjDlPV0AA0kaXNJbnN0YW5jZU9mc3EAfgAMqj2IS3QAF3Jlc291cmNlQXNTdHJlYW1Gcm9tU3Jjc3EAfgAM1Ez2oXQACW5vdGlmeUFsbHNxAH4ADCYkqcp0AAxpc0luc3RhbmNlT2ZzcQB+AAxpxNpvdAADPz8/c3EAfgAMmnpgkXQAAj09c3EAfgAM2tY31nQABWNsb25lc3EAfgAMZ0zWI3QAB3N1YkZpbGVzcQB+AAwkK+HodAAIdG9TdHJpbmdzcQB+AAw/usRqdAACIT1zcQB+AAzTr+AcdAAIZ2V0Q2xhc3NzcQB+AAwIKkOTdAACbmVzcQB+AAwadAmLdAACZXFzcQB+AAyTEjXPdAACIyNzcQB+AAyruj4odAAIZmluYWxpemVzcQB+AAzDjCCldAAIaGFzaENvZGVzcQB+AAx7bUT0dAADKioqc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQADmNvbW1vbi5wYWNrYWdldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGBzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBlc3EAfgBgdXEAfgBCAAAAAHNxAH4AYHVxAH4AQgAAAABzcQB+AGB1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGR0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGRzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH5zcQB+AHF0AANBbnlzcQB+AHVzcQB+AHh1cQB+AHsAAAACc3EAfgB9dAAFc2NhbGFxAH4AhHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABmNvbW1vbnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa3cWdht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABKL1VzZXJzL292aWRpdWZyaXRzY2gvY29kZS9TY2FsYV9Db3Vyc2VyYS9leGFtcGxlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSIW48SpbKoPa1lj3bMH91nijjUqA==
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwNE4MngAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAXc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwZJgKiXQABm5vdGlmeXNxAH4ADIzMMMp0AAVMaXN0c3NxAH4ADCVaMgV0AAR3YWl0c3EAfgAMVArymHQADSRhc0luc3RhbmNlT2ZzcQB+AAzKoXPPdAAGZXF1YWxzc3EAfgAMZKx2IHQADGFzSW5zdGFuY2VPZnNxAH4ADNILycl0AAxzeW5jaHJvbml6ZWRzcQB+AAxdzrpIdAANJGlzSW5zdGFuY2VPZnNxAH4ADKwrE1d0AARtYXhfc3EAfgAMZnHZgXQACW5vdGlmeUFsbHNxAH4ADC2WrO90AAxpc0luc3RhbmNlT2ZzcQB+AAxIla+8dAADbWF4c3EAfgAM4rk7cnQAAj09c3EAfgAMCP6WCXQABWNsb25lc3EAfgAMg9S2P3QACHRvU3RyaW5nc3EAfgAMek0ZaXQAAiE9c3EAfgAMR3PcPXQACGdldENsYXNzc3EAfgAMfE+vL3QAAm5lc3EAfgAMLs5GbnQAAmVxc3EAfgAMuQ1/kHQAA3N1bXNxAH4ADNjIkWF0AAIjI3NxAH4ADFQIUyd0AAhmaW5hbGl6ZXNxAH4ADOGwQAl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA1leGFtcGxlLkxpc3RzdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF5zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ARUwACWluaGVyaXRlZHEAfgBFTAAHcGFyZW50c3EAfgBFeHEAfgBjc3EAfgBedXEAfgBAAAAAAHNxAH4AXnVxAH4AQAAAAABzcQB+AF51cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGJzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHt0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHxzcQB+AG90AANBbnlzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7dAAFc2NhbGFxAH4AgnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB2V4YW1wbGVzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWt3FnYbdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9vdmlkaXVmcml0c2NoL2NvZGUvU2NhbGFfQ291cnNlcmEvZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUzNRuMx+xbDvoX/jnFBSnbmfwl08=
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw1vUqRAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwWBOAXXQABm5vdGlmeXNxAH4ADIXsp8d0AAR3YWl0c3EAfgAMpy96r3QADSRhc0luc3RhbmNlT2ZzcQB+AAy4eHfedAAGZXF1YWxzc3EAfgAMhQ5o8HQADGFzSW5zdGFuY2VPZnNxAH4ADFQh0vF0AA5leGVjdXRpb25TdGFydHNxAH4ADLshY+Z0AAxzeW5jaHJvbml6ZWRzcQB+AAwPJViydAANJGlzSW5zdGFuY2VPZnNxAH4ADDTOhQd0AARtYWluc3EAfgAMGeqjK3QACW5vdGlmeUFsbHNxAH4ADOZxPfx0AAxpc0luc3RhbmNlT2ZzcQB+AAxEAomudAACPT1zcQB+AAwy2pjBdAAFY2xvbmVzcQB+AAyFM5kqdAAGJGluaXQkc3EAfgAMgoD5j3QABE1haW5zcQB+AAxWd09FdAAIdG9TdHJpbmdzcQB+AAxq/qRrdAAEYXJnc3NxAH4ADA0M41t0AAIhPXNxAH4ADJeM1eN0AAhnZXRDbGFzc3NxAH4ADO65FG50AAJuZXNxAH4ADDlHGzZ0AAJlcXNxAH4ADPQiVvJ0AAtkZWxheWVkSW5pdHNxAH4ADKh1lEx0AAIjI3NxAH4ADE/9UpR0AAhmaW5hbGl6ZXNxAH4ADFf92vZ0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AAxleGFtcGxlLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAADdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkdAAmamRrLmludGVybmFsLkhvdFNwb3RJbnRyaW5zaWNDYW5kaWRhdGVzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGlzcQB+AGR1cQB+AEQAAAAAc3EAfgBkdXEAfgBEAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBKcQB+AFN1cQB+AFQAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgBzeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGh0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AaHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AjXNxAH4AVgBxAH4AH3VxAH4AWQAAAABzcQB+AIB0AARVbml0cQB+AIZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBzeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBcdAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AgVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AaHNxAH4AgHQABUFycmF5cQB+AIZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgHQABlN0cmluZ3NxAH4AhHNxAH4Ah3VxAH4AigAAAANzcQB+AIx0AARqYXZhc3EAfgCMdAAEbGFuZ3EAfgCRc3EAfgBkdXEAfgCoAAAABHNxAH4AgHQAA0FwcHEAfgCGc3EAfgCAdAALRGVsYXllZEluaXRxAH4AhnNxAH4AgHQABk9iamVjdHEAfgCsc3EAfgCAdAADQW55cQB+AIZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdleGFtcGxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrdxZ2G3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMvb3ZpZGl1ZnJpdHNjaC9jb2RlL1NjYWxhX0NvdXJzZXJhL2V4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPr/5qUYeZbs1i8txIoyC1Aeyu+7
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwIdYxKAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAcc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwEKT7rXQABm5vdGlmeXNxAH4ADAnHn0l0AAR3YWl0c3EAfgAMcPOKX3QADSRhc0luc3RhbmNlT2ZzcQB+AAxR+qZ4dAAGZXF1YWxzc3EAfgAM8Nsy7nQADGFzSW5zdGFuY2VPZnNxAH4ADL+wx3d0AAE8c3EAfgAMZhEP/3QAB3VuYXJ5Xy1zcQB+AAyPJtE/dAAMc3luY2hyb25pemVkc3EAfgAMEjMUz3QADSRpc0luc3RhbmNlT2ZzcQB+AAwTauWodAAFbnVtZXJzcQB+AAwaMoxXdAAJbm90aWZ5QWxsc3EAfgAMF1voTnQAAS1zcQB+AAwnu/3SdAAMaXNJbnN0YW5jZU9mc3EAfgAM+Q4BC3QABjxpbml0PnNxAH4ADNmUlXt0AANtYXhzcQB+AAz+1W9ndAACPT1zcQB+AAysRjFudAAFY2xvbmVzcQB+AAzY4egsdAAIdG9TdHJpbmdzcQB+AAwtUQCjdAAFZGVub21zcQB+AAxOYp9IdAABK3NxAH4ADN8ZkVJ0AAIhPXNxAH4ADCqsI150AAhnZXRDbGFzc3NxAH4ADPN+oa90AAhSYXRpb25hbHNxAH4ADDXSxRt0AAJuZXNxAH4ADPL5z+l0AAJlcXNxAH4ADOkkml90AAIjI3NxAH4ADC1w8Ad0AAhmaW5hbGl6ZXNxAH4ADEDdhDN0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AE94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0AA53ZWVrMy5SYXRpb25hbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGhzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AT0wACWluaGVyaXRlZHEAfgBPTAAHcGFyZW50c3EAfgBPeHEAfgBtc3EAfgBodXEAfgBKAAAAAHNxAH4AaHVxAH4ASgAAAABzcQB+AGh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGx0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGxzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIV0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIZzcQB+AHl0AANBbnlzcQB+AH1zcQB+AIB1cQB+AIMAAAACc3EAfgCFdAAFc2NhbGFxAH4AjHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXdlZWszc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFrdxZ2G3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEovVXNlcnMvb3ZpZGl1ZnJpdHNjaC9jb2RlL1NjYWxhX0NvdXJzZXJhL2V4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFGw1iGyIVfjIgYlrbm7SH3yzsQ4z
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwU0qKIQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAZc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwB0u7tXQABm5vdGlmeXNxAH4ADNdW4s10AAR3YWl0c3EAfgAMl++MQXQADSRhc0luc3RhbmNlT2ZzcQB+AAye+miHdAAGZXF1YWxzc3EAfgAMZvIfvHQABGhlYWRzcQB+AAzpIq+TdAAMYXNJbnN0YW5jZU9mc3EAfgAMtCn10HQADHN5bmNocm9uaXplZHNxAH4ADGliON90AA0kaXNJbnN0YW5jZU9mc3EAfgAMFgruBHQABHRhaWxzcQB+AAwUxjP8dAAEQ29uc3NxAH4ADF+yrhR0AAlub3RpZnlBbGxzcQB+AAyWNZ2ydAAMaXNJbnN0YW5jZU9mc3EAfgAMZwT/zHQABjxpbml0PnNxAH4ADL32gMJ0AAI9PXNxAH4ADEFx8qZ0AAVjbG9uZXNxAH4ADEZ83eB0AAh0b1N0cmluZ3NxAH4ADEYdUhB0AAIhPXNxAH4ADGEp7sd0AAhnZXRDbGFzc3NxAH4ADAlH+UF0AARMaXN0c3EAfgAMIsqzVnQAB2lzRW1wdHlzcQB+AAx1XGLDdAACbmVzcQB+AAzb9AVfdAACZXFzcQB+AAwbjh5wdAACIyNzcQB+AAwRGpgRdAAIZmluYWxpemVzcQB+AAxGzjXfdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBJeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHABdAAad2VlazQud2VlazMucmF0aW9uYWxzLkxpc3R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4ATkwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AEtMAAp1cHBlckJvdW5kcQB+AFxMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AFQAAAAAdAAcd2VlazQud2VlazMucmF0aW9uYWxzLkxpc3QuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBwdXEAfgBZAAAAAHNxAH4AYXQAA0FueXEAfgBpfnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AeXQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AGNzcQB+AIJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ASUwACWluaGVyaXRlZHEAfgBJTAAHcGFyZW50c3EAfgBJeHEAfgBkc3EAfgCCdXEAfgBEAAAAAHNxAH4AgnVxAH4ARAAAAABzcQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNxAH4AYXQABk9iamVjdHNxAH4AZ3NxAH4AanVxAH4AbQAAAANzcQB+AG90AARqYXZhc3EAfgBvdAAEbGFuZ3EAfgB0c3EAfgBhcQB+AHdzcQB+AGdzcQB+AGp1cQB+AG0AAAACc3EAfgBvcQB+AHJxAH4AdHNxAH4ARnEAfgBTdXEAfgBUAAAAAHNxAH4AVgB0ABp3ZWVrNC53ZWVrMy5yYXRpb25hbHMuQ29uc3VxAH4AWQAAAAFzcQB+AFt1cQB+AFQAAAAAdAAcd2VlazQud2VlazMucmF0aW9uYWxzLkNvbnMuVHEAfgBldXEAfgBZAAAAAHEAfgB2cQB+AHp+cQB+AHx0AAhDbGFzc0RlZnVxAH4AfwAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNxAH4AgnEAfgCGc3EAfgCCc3EAfgCIc3EAfgCCdXEAfgBEAAAAAHNxAH4AgnVxAH4ARAAAAABzcQB+AIJ1cQB+AI8AAAADc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgBiWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBjc3EAfgBhdAAETGlzdHNxAH4AZ3NxAH4AanVxAH4AbQAAAARzcQB+AG90AAV3ZWVrNHNxAH4Ab3QABXdlZWszc3EAfgBvdAAJcmF0aW9uYWxzcQB+AHR1cQB+AI8AAAABc3IAFnhzYnRpLmFwaS5QYXJhbWV0ZXJSZWY/2OM5ACxzsAIAAUwAAmlkcQB+AA14cQB+AGN0ABx3ZWVrNC53ZWVrMy5yYXRpb25hbHMuQ29ucy5Uc3EAfgBhcQB+AJJzcQB+AGdzcQB+AGp1cQB+AG0AAAADc3EAfgBvcQB+AJdzcQB+AG9xAH4AmXEAfgB0c3EAfgBhcQB+AHdzcQB+AGdzcQB+AGp1cQB+AG0AAAACc3EAfgBvcQB+AHJxAH4AdHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAADc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABXdlZWs0c3EAfgDUdAAVd2VlazQud2VlazMucmF0aW9uYWxzc3EAfgDUdAALd2VlazQud2VlazNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWt3FnYbdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASi9Vc2Vycy9vdmlkaXVmcml0c2NoL2NvZGUvU2NhbGFfQ291cnNlcmEvZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxejDlgjGfj4+1YY2iVkz6DgilOA=
+external apis:
+0 items
+source infos:
+5 items
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Lists.scala -> 
+AAAAAAAAAAA=
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/example/Main.scala -> 
+AAAAAAAAAAA=
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week3/Rational.scala -> 
+AAAAAAAAAAA=
+/Users/ovidiufritsch/code/Scala_Coursera/example/src/main/scala/week4/List.scala -> 
+AAAAAAAAAAA=
+compilations:
+4 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa2xuBdt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9vdmlkaXVmcml0c2NoL2NvZGUvU2NhbGFfQ291cnNlcmEvZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa2yCn5t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9vdmlkaXVmcml0c2NoL2NvZGUvU2NhbGFfQ291cnNlcmEvZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa2yEcEt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9vdmlkaXVmcml0c2NoL2NvZGUvU2NhbGFfQ291cnNlcmEvZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa3cWdht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASi9Vc2Vycy9vdmlkaXVmcml0c2NoL2NvZGUvU2NhbGFfQ291cnNlcmEvZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
